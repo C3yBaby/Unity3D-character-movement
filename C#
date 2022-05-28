@@ -38,11 +38,3 @@ public class Example : MonoBehaviour
         controller.Move(playerVelocity * Time.deltaTime);
     }
 }
-Did you find this page useful? Please give it a rating:
-
-Report a problem on this page
-
-Is something described here not working as you expect it to? It might be a Known Issue. Please check with the Issue Tracker at issuetracker.unity3d.com.
-
-Copyright ©2022 Unity Technologies. Publication Date: 2022-05-20.
-Tutorials Community Answers Knowledge Base Forums Asset Store Terms of use
